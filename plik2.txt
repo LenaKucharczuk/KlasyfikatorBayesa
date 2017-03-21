@@ -1,0 +1,22 @@
+4
+sunny overcast rain
+hot mild cold
+normal high
+strong weak
+1
+good bad
+14
+overcast mild high strong bad
+sunny hot high weak bad
+sunny hot high strong good
+overcast hot high weak good
+rain mild high weak good
+rain cold normal strong bad
+rain cold normal strong good
+overcast cold normal strong bad
+sunny mild high weak good
+sunny cold normal weak good
+rain mild normal weak good
+sunny mild normal strong good
+overcast hot normal weak good
+rain mild high strong bad
